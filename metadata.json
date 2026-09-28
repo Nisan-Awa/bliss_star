@@ -1,0 +1,6 @@
+{
+  "name": "Bliss Star Media",
+  "description": "A creator-powered customer acquisition platform for African businesses. Connect with creators to drive measurable content, clicks, leads, and sales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
